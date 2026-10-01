@@ -53,15 +53,34 @@ Workout_progress/
 
 ## How to Run
 
-1. Open the project folder in VS Code.
-2. Open the terminal.
-3. Run:
+The project can be run directly from the terminal.
 
-```text
+Step 1: Open the project folder
+
+Open Command Prompt or PowerShell and go to the project folder using the cd command.
+
+For example:
+
+cd path\to\Workout_progress
+Step 2: Check Python
+
+Run:
+
+python --version
+
+This will show the installed Python version.
+
+Step 3: Run the program
+
+Run:
+
 python main.py
-```
 
-4. Press Enter and the application will open.
+Press Enter and the Workout Progress Tracker window will open.
+
+The project does not require VS Code to run.
+
+No additional Python packages are required to run the project.
 
 ---
 
