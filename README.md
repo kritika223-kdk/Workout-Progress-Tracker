@@ -62,6 +62,7 @@ Open Command Prompt or PowerShell and go to the project folder using the cd comm
 For example:
 
 cd path\to\Workout_progress
+
 Step 2: Check Python
 
 Run:
